@@ -5,3 +5,5 @@ FIRST TASK - MASTER GITHUB FEATURES
 SECOND TASK - PRACTICE MORE AND MORE
 
 THIRD TASK - DO SECOND TASK
+
+fourth task - updating from feature branch
